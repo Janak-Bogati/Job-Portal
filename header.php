@@ -36,8 +36,8 @@
 							';
 						  }else{
 							  echo '
-							  <input type="s <li><a href="login.php">Login</a></li></submit>
-							  <input type="s<li><a href="register.php">Register</a></li></submit>
+							   <li><a href="login.php">Login</a></li>
+							  <li><a href="register.php">Register</a></li>
 							  ';
 						  }
 				   ?>
